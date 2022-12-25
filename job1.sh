@@ -1,4 +1,4 @@
 #! /bin/bash
 
-var="Hello World"
+var="Hello Kaushik Kumar"
 echo $var
